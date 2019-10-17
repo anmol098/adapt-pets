@@ -1,5 +1,7 @@
 # adopt-pets
 
+##This Project includes the basics of vue-router and vueX
+
 ## Project setup
 ```
 npm install
